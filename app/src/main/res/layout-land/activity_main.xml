@@ -1,0 +1,28 @@
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- Contenedor de Frame  -->
+    <FrameLayout
+        android:id="@+id/frameContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/udeaWatermark"
+            android:src="@drawable/udea_watermark"/>
+
+    </FrameLayout>
+    <!-- Menú lateral -->
+    <ListView
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:id="@+id/leftMenu"
+        android:background="@color/colorPrimary"
+        android:choiceMode="singleChoice">
+    </ListView>
+
+</android.support.v4.widget.DrawerLayout>

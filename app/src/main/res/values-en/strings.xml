@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">Open</string>
+    <string name="create">Add career</string>
+    <string name="closed">Close</string>
+    <string name="logUser">User</string>
+    <string name="logPass">Password</string>
+    <string name="checkRemem">Remember Me</string>
+    <string name="confirmPass">Confirm password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="logRegister">Register</string>
+    <string name="comeBack">Return</string>
+    <string name="log">login</string>
+    <string name="closeSure">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="career">Careers</string>
+    <string name="info">Info. Application</string>
+    <string name="developers">Profile developers</string>
+    <string name="closeSession">Close session</string>
+    <string name="out">Exit</string>
+    <string name="mistake1">Please enter all fields</string>
+    <string name="mistake2">Non-existing user</string>
+    <string name="mistake3">Incorrect data</string>
+    <string name="mistake4">The passwords do not match</string>
+    <string name="mistake5">Already registered user</string>
+    <string name="mistake6">User created</string>
+    <string name="mistake7">Already registered career</string>
+    <string name="mistake8">Career created</string>
+    <string name="name">Name</string>
+    <string name="distance">Distance</string>
+    <string name="place">Place</string>
+    <string name="date">Date</string>
+    <string name="add">Add</string>
+
+</resources>
